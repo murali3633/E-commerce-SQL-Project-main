@@ -3,7 +3,7 @@
 This project demonstrates a basic E-commerce database using SQLite. It includes scripts for creating the database schema, populating it with sample data, and executing various SQL queries to analyze the data.
 
 ## Prerequisites       
- 
+  
 -   [SQLite](https://www.sqlite.org/index.html): Make sure you have SQLite installed and accessible from your command line.
    
 ## Database Schema   
