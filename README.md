@@ -12,7 +12,7 @@ The database consists of the following tables:
   
 *   **Users**: Stores customer information.
     *   `user_id` (PK)
-    *   `first_name`, `last_name`
+    *   `first_name`, `last_name` 
     *   `email` (Unique)
     *   `Signup_date` 
 *   **Products**: Stores product details.
