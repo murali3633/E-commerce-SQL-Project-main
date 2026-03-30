@@ -10,7 +10,7 @@ This project demonstrates a basic E-commerce database using SQLite. It includes 
  
 The database consists of the following tables:   
   
-*   **Users**: Stores customer information. 
+*   **Users**: Stores customer information.  
     *   `user_id` (PK)
     *   `first_name`, `last_name` 
     *   `email` (Unique)
