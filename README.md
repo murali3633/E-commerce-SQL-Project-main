@@ -7,7 +7,7 @@ This project demonstrates a basic E-commerce database using SQLite. It includes 
 -   [SQLite](https://www.sqlite.org/index.html): Make sure you have SQLite installed and accessible from your command line.
   
 ## Database Schema 
- 
+  
 The database consists of the following tables:   
   
 *   **Users**: Stores customer information.   
